@@ -17,4 +17,13 @@ The second part of lecture was our introduction into TDD. It makes sense to buil
 ## 5/17/17
 Yesterday, we worked on functions that sum a series. My partner and I focused on iterator solutions first and turned our attention to recursion after our three iterative solutions passed tests. Castro shared his recursive solution for the fibonacci sequence, which was pretty different from my initial attempts. As I was watching the Clean Architecture video for today, Brandon Rhodes touched on what he considers a strength of functional programming: the simplicity and cleanliness allows him to visualize what the data looks like at every step. I need more exposure to recursion because I don't yet have that vision! But just five months ago, I was struggling to 'see' how a loop ran and we arrived at our iterative solution quickly - proof that it's very possible to learn that ability to visualize what a function/program is doing.
 
-Lecture got a lot deeper into environments and packages, but it made sense and the structure was similar to how we used Node.js in 301. Reading and writing into files is newer for me, so I anticipate needing to do some research in that area. The work we do in the command line makes me realize how little I've really used my computer until now!
+Lecture got a lot deeper into environments and packages, but it made sense and the structure was similar to how we used Node.js in 301. Reading and writing into files is newer for me, so I anticipate needing to do some research in that area. The work we do in the command line makes me realize how little I've really used my computer until now! We talked a lot about collection data types and all the super cool, clean Python methods specific to each.
+
+Lab time today made me feel like I was back at Code Fellows for real. The 'how is half this work ever going to get done' feeling is back in full force! Anna and I spent a lot of time on our environment and package set up, which I think will pay off. I was able to clone the repo and install the dependencies without any problems, and we can easily run whatever we put in main from the terminal.
+
+## 5/18/17
+Today's lecture focused more on lists and dictionaries, including anonymous/lambda functions. We also got more in-depth about shallow and deep copying, which can be used to sort lists and dictionaries.
+
+This was our second day in lab setting up our environments and packages, and building a package around our own module. Today we added tox, however, so that added a new level of complexity. We got to see the magic of tox in action when we ran a test on a function that converts our mailroom donor keys into a list - since we hard-coded the expected result, the test didn't pass because the outputted list in the Python2 environment was unpredictible.
+
+Tomorrow we're going to do our Day of Code assignment, solving CodeWars katas and writing tests for them. I'm excited to practice writing tests because I need it!
