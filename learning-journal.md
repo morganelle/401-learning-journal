@@ -27,3 +27,21 @@ Today's lecture focused more on lists and dictionaries, including anonymous/lamb
 This was our second day in lab setting up our environments and packages, and building a package around our own module. Today we added tox, however, so that added a new level of complexity. We got to see the magic of tox in action when we ran a test on a function that converts our mailroom donor keys into a list - since we hard-coded the expected result, the test didn't pass because the outputted list in the Python2 environment was unpredictible.
 
 Tomorrow we're going to do our Day of Code assignment, solving CodeWars katas and writing tests for them. I'm excited to practice writing tests because I need it!
+
+## 8/7/17
+Picking this back up now that class is over. My intention is to document something I've learned every day, and any questions that come up. 
+
+Here's what I learned last week (the first week since finishing school):
+
+- I began reading Cracking the Coding Interview, including a better summary of BigO notation than I'd previously read.
+- Spent more time working on BigQuery Manager, my final course project
+- Started researching how async is generally handled in Python
+- Worked on a quick 6kyu kata I solved two ways, both using closures, one having a class with a __call__ method
+
+My goal for last week was mostly to get organized for the coming weeks, so my efforts weren't too consistent.
+
+Here are my goals:
+- Review and rebuild the binary search tree data structure and methods
+- Build one simple Flask or Pyramid list app
+- Daily katas / whiteboarding problems
+- Complete the decision tree assignment
