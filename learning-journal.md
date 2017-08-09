@@ -28,7 +28,7 @@ This was our second day in lab setting up our environments and packages, and bui
 
 Tomorrow we're going to do our Day of Code assignment, solving CodeWars katas and writing tests for them. I'm excited to practice writing tests because I need it!
 
-## 8/7/17
+## 8/7/17 - 8/11/17 weekly plan
 Picking this back up now that class is over. My intention is to document something I've learned every day, and any questions that come up. 
 
 Here's what I learned last week (the first week since finishing school):
@@ -45,3 +45,18 @@ Here are my goals:
 - Build one simple Flask or Pyramid list app
 - Daily katas / whiteboarding problems
 - Complete the decision tree assignment
+
+
+## 8/7/17
+What I did:
+- Completed one 5kyu kata
+- Began binary search tree rebuild, including insert, balance, depth (with tests)
+
+
+## 8/8/17
+What I did:
+- Completed binary search tree traversal methods, using recursion for pre, in, and post order and a queue for breadth-first.
+
+What I learned:
+- More about generators
+- Practice with recursion
