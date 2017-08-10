@@ -64,3 +64,12 @@ What I did:
 What I learned:
 - More about generators
 - Practice with recursion
+
+
+## 8/9/17
+What I did:
+- Recursive solution to binary search tree depth
+- Final whiteboard exam (also recursive solution)
+
+What I learned:
+- Talked with instructor about good learning projects
